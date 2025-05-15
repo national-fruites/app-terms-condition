@@ -37,6 +37,6 @@ We reserve the right to modify these Terms at any time. Updated Terms will be po
 We may suspend or terminate your access to the app if you violate these Terms or for any other reason at our discretion.
 
 ## 10. Contact Us
-If you have any questions or concerns about these Terms, please contact us at: **gabbarr1999@gmail.com**.
+If you have any questions or concerns about these Terms, please contact us at: **thefoodofnational@gmail.com**.
 
 Thank you for using the National Fruits and Dry Fruits App!
