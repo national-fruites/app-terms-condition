@@ -28,7 +28,7 @@ The app is provided “as is” and we make no warranties, express or implied, r
 To the maximum extent permitted by law, we are not liable for any damages, including indirect or consequential damages, arising from your use of the app.
 
 ## 7. Privacy Policy
-Your use of the app is also governed by our [Privacy Policy](https://gabbarr1999.github.io/fruites-privacy).
+Your use of the app is also governed by our [Privacy Policy](https://national-fruites.github.io/app-privacy-policy/).
 
 ## 8. Changes to Terms
 We reserve the right to modify these Terms at any time. Updated Terms will be posted on this page. Continued use of the app after changes means you accept the updated Terms.
